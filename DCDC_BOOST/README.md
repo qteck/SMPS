@@ -61,8 +61,8 @@
 
 ## Graphs 
 ### Transient Response
-![boost_response](Images/boost_response.png)
+![boost_response](images/boost_response.png)
 ### Voltage Ripple
-![boost_v_ripple](Images/boost_v_ripple.png)
+![boost_v_ripple](images/boost_v_ripple.png)
 ### Inductor Ripple
-![inductor_ripple](Images/inductor_ripple.png)
+![inductor_ripple](images/inductor_ripple.png)
