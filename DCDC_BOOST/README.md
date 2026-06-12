@@ -2,7 +2,7 @@
 
 ## Design Steps
 
-1. Choosing Vin_nom
+1. Choosing Vin
    - Vin = 5V
 
 2. Choosing Vout and Iout
