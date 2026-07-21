@@ -55,6 +55,7 @@
 ## Component considerations
 
 - Suitable inductor, something with high sat current made possible by including relevant core such as ferrite.
+- Shielded inductor, or casing for reduced EMI 
 - Logic level N-MOSFET switch with low gate capacitance and low Ron resistance.
 - Cap that covers 150uF range such as electrolytic with low series resistance.
 - Fast Schottky diode with low forward voltage.
