@@ -1,0 +1,15 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Utente\Desktop\SMPS\SMPS\DCDC_BOOST_LOAD_REGULATION - Ideal Switch - Soft Start\dcdc.net
+Start Time: Sat Oct 17 22:11:53 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.383 seconds.
+
+Files loaded:
+C:\Users\Utente\Desktop\SMPS\SMPS\DCDC_BOOST_LOAD_REGULATION - Ideal Switch - Soft Start\dcdc.net
+C:\Users\Utente\AppData\Local\LTspice\lib\cmp\standard.dio
+
